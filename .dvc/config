@@ -1,0 +1,4 @@
+[core]
+    remote = chanremote
+['remote "chanremote"']
+    url = ../s3
